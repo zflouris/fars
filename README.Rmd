@@ -1,0 +1,26 @@
+---
+output: github_document
+---
+
+
+# fars
+
+The goal of the Fatality Analysis Reporting System is to map the airplane accidents for a specific year accross a state.
+
+
+## Installation
+
+You can install fars from github with:
+
+```{r gh-installation, eval = FALSE}
+# install.packages("devtools")
+devtools::install_github("zflouris/fars")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+## basic example code
+```
