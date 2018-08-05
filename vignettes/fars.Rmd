@@ -1,0 +1,11 @@
+---
+title: "Fars"
+author: "Z. Flouris"
+date: "5 of August 2018"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+The goal of the Fatality Analysis Reporting System is to map the airplane accidents for a specific year accross a state.
