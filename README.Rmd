@@ -19,8 +19,9 @@ devtools::install_github("zflouris/fars")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+You call the function fars_map_state() with the code of the state as the first argunent and the year as the second argument and you get a map with dots in all the places where an accident took place.
 
-```{r example}
-## basic example code
+```{r }
+fars_map_state(21,2013)
 ```
+

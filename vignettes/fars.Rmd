@@ -9,3 +9,7 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 The goal of the Fatality Analysis Reporting System is to map the airplane accidents for a specific year accross a state.
+
+This is my a coursera project for the course "Building R packages". The purpose of this project is to crete a simple package using the devtools package which is CRAN ready. 
+
+In particular, the user can call the function fars_map_name which take the state code as the first argument and the one of the years 2013, 2014, 2015 as the second one and produces a map with all the fatal accidents that happened in the state that paarticular year.
