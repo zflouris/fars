@@ -7,7 +7,9 @@
 fars_map_state(state.num, year)
 }
 \arguments{
-\item{The}{code number of a state and the year}
+\item{state.num}{code number of a state and the year}
+
+\item{year}{the year}
 }
 \value{
 a plot that depicts a map of the state

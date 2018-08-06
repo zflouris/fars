@@ -7,7 +7,7 @@
 make_filename(year)
 }
 \arguments{
-\item{A}{character, numeric or integer with the year you are interested in}
+\item{year}{A character, numeric or integer with the year you are interested in}
 }
 \value{
 A character vector with the name of the file you want to access.

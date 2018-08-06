@@ -7,7 +7,7 @@
 fars_summarize_years(years)
 }
 \arguments{
-\item{A}{vector with all the years you want to study}
+\item{years}{A vector with all the years you want to study}
 }
 \value{
 a data list with objects the data from all the years you are interested in.

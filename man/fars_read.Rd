@@ -7,7 +7,7 @@
 fars_read(filename)
 }
 \arguments{
-\item{A}{character with the name of the file you want to study}
+\item{filename}{A character with the name of the file you want to study}
 }
 \value{
 data.table object with all the data
